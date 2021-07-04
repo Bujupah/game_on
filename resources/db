@@ -1,0 +1,12 @@
+{
+  "games": [],
+  "users": [
+    {
+      "fullname": "Meeeelek",
+      "email": "melek@gmail.com",
+      "username": "melek",
+      "password": "bWVsZWs=",
+      "role": "user"
+    }
+  ]
+}
